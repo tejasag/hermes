@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const prompts = require("prompts");
 const { exec } = require("child_process");
 const { mkdir } = require("fs");
